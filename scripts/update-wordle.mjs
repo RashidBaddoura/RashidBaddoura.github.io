@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 
-const destination = fileURLToPath(new URL('../data/puzzles.json', import.meta.url));
+const destination = fileURLToPath(new URL('../wordle/data/puzzles.json', import.meta.url));
 const today = new Date().toISOString().slice(0,10);
 let existing = { puzzles: {} };
 try { existing = JSON.parse(await readFile(destination,'utf8')); } catch {}

@@ -13,7 +13,7 @@ let date = localDate(), puzzle = null, dictionary = null, game = null, busy = fa
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 const delay = ms => new Promise(resolve => setTimeout(resolve, reducedMotion ? 0 : ms));
 const tiles = [], keys = {};
-const feedURL = 'https://raw.githubusercontent.com/RashidBaddoura/RashidBaddoura.github.io/main/data/puzzles.json';
+const feedURL = 'https://raw.githubusercontent.com/RashidBaddoura/RashidBaddoura.github.io/main/wordle/data/puzzles.json';
 
 function persist() {
   try {

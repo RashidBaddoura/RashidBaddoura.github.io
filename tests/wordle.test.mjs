@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { localDate, nextMidnight, score, hardModeError, selectPuzzle, statistics, shareText } from '../lib/game.mjs';
+import { localDate, nextMidnight, score, hardModeError, selectPuzzle, statistics, shareText } from '../wordle/lib/game.mjs';
 
 test('duplicate letters consume only available answer letters, with greens first',()=>{
   assert.deepEqual(score('allee','apple'),['correct','present','absent','absent','correct']);

@@ -1,6 +1,6 @@
 # Wordle recreation
 
-Static game at `https://rashidbaddoura.github.io/`. Six guesses, duplicate-letter scoring, keyboard input, hard mode, dark and high-contrast themes, local progress, statistics, and spoiler-free sharing.
+Static game at `https://rashidbaddoura.github.io/wordle/`. Six guesses, duplicate-letter scoring, keyboard input, hard mode, dark and high-contrast themes, local progress, statistics, and spoiler-free sharing.
 
 ## Daily puzzles
 
@@ -10,6 +10,6 @@ The midnight rule is a UI rule based on the player's device clock, like any clie
 
 ## Local development
 
-Serve the repository root using `python -m http.server 8765`, then open `/`. Run `node --test tests/wordle.test.mjs` from the repository root. Refresh the feed with `node scripts/update-wordle.mjs`.
+Serve the repository root using `python -m http.server 8765`, then open `/wordle/`. Run `node --test tests/wordle.test.mjs` from the repository root. Refresh the feed with `node scripts/update-wordle.mjs`.
 
 The UI uses the user's supplied screenshots and saved CSS measurements as references, with simplified navigation and no subscription, login, publisher credits, advertising, analytics, or tracking. The proprietary fonts were not present in the supplied files; system fonts are used. Progress and stats are independent and browser-local. The dictionary comes from https://github.com/tabatkins/wordle-list under its accompanying MIT license and is not guaranteed to track every change to the original game's accepted guesses.
