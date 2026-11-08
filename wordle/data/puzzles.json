@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-10-24": {
-      "date": "2026-10-24",
-      "id": 5139,
-      "number": 1953,
-      "solution": "holey",
-      "editor": "Tracy Bennett"
-    },
     "2026-10-25": {
       "date": "2026-10-25",
       "id": 1773,
@@ -153,6 +146,13 @@
       "id": 1156,
       "number": 1974,
       "solution": "randy",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-15": {
+      "date": "2026-11-15",
+      "id": 4790,
+      "number": 1975,
+      "solution": "snark",
       "editor": "Tracy Bennett"
     }
   }
