@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-10-25": {
-      "date": "2026-10-25",
-      "id": 1773,
-      "number": 1954,
-      "solution": "dress",
-      "editor": "Tracy Bennett"
-    },
     "2026-10-26": {
       "date": "2026-10-26",
       "id": 921,
@@ -153,6 +146,13 @@
       "id": 4790,
       "number": 1975,
       "solution": "snark",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-16": {
+      "date": "2026-11-16",
+      "id": 911,
+      "number": 1976,
+      "solution": "drawl",
       "editor": "Tracy Bennett"
     }
   }
