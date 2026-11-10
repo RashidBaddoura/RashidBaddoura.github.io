@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-10-26": {
-      "date": "2026-10-26",
-      "id": 921,
-      "number": 1955,
-      "solution": "geeky",
-      "editor": "Tracy Bennett"
-    },
     "2026-10-27": {
       "date": "2026-10-27",
       "id": 1390,
@@ -153,6 +146,13 @@
       "id": 911,
       "number": 1976,
       "solution": "drawl",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-17": {
+      "date": "2026-11-17",
+      "id": 1085,
+      "number": 1977,
+      "solution": "roast",
       "editor": "Tracy Bennett"
     }
   }
