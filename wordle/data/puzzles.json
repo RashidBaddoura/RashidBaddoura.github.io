@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-10-28": {
-      "date": "2026-10-28",
-      "id": 4821,
-      "number": 1957,
-      "solution": "grist",
-      "editor": "Tracy Bennett"
-    },
     "2026-10-29": {
       "date": "2026-10-29",
       "id": 3616,
@@ -153,6 +146,13 @@
       "id": 2629,
       "number": 1978,
       "solution": "blurt",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-19": {
+      "date": "2026-11-19",
+      "id": 1555,
+      "number": 1979,
+      "solution": "clout",
       "editor": "Tracy Bennett"
     }
   }
