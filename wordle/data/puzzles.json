@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-10-29": {
-      "date": "2026-10-29",
-      "id": 3616,
-      "number": 1958,
-      "solution": "motor",
-      "editor": "Tracy Bennett"
-    },
     "2026-10-30": {
       "date": "2026-10-30",
       "id": 672,
@@ -153,6 +146,13 @@
       "id": 1555,
       "number": 1979,
       "solution": "clout",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-20": {
+      "date": "2026-11-20",
+      "id": 1227,
+      "number": 1980,
+      "solution": "arose",
       "editor": "Tracy Bennett"
     }
   }
