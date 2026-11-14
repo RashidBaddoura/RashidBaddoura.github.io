@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-10-30": {
-      "date": "2026-10-30",
-      "id": 672,
-      "number": 1959,
-      "solution": "slide",
-      "editor": "Tracy Bennett"
-    },
     "2026-10-31": {
       "date": "2026-10-31",
       "id": 4992,
@@ -153,6 +146,13 @@
       "id": 1227,
       "number": 1980,
       "solution": "arose",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-21": {
+      "date": "2026-11-21",
+      "id": 4794,
+      "number": 1981,
+      "solution": "stent",
       "editor": "Tracy Bennett"
     }
   }
