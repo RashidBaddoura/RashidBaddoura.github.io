@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-01": {
-      "date": "2026-11-01",
-      "id": 1730,
-      "number": 1961,
-      "solution": "viper",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-02": {
       "date": "2026-11-02",
       "id": 4843,
@@ -153,6 +146,13 @@
       "id": 4823,
       "number": 1982,
       "solution": "upend",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-23": {
+      "date": "2026-11-23",
+      "id": 1997,
+      "number": 1983,
+      "solution": "filth",
       "editor": "Tracy Bennett"
     }
   }
