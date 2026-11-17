@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-02": {
-      "date": "2026-11-02",
-      "id": 4843,
-      "number": 1962,
-      "solution": "scoot",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-03": {
       "date": "2026-11-03",
       "id": 1031,
@@ -153,6 +146,13 @@
       "id": 1997,
       "number": 1983,
       "solution": "filth",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-24": {
+      "date": "2026-11-24",
+      "id": 1202,
+      "number": 1984,
+      "solution": "sneer",
       "editor": "Tracy Bennett"
     }
   }
