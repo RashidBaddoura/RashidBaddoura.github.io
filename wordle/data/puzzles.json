@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-03": {
-      "date": "2026-11-03",
-      "id": 1031,
-      "number": 1963,
-      "solution": "pouch",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-04": {
       "date": "2026-11-04",
       "id": 1835,
@@ -153,6 +146,13 @@
       "id": 1202,
       "number": 1984,
       "solution": "sneer",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-25": {
+      "date": "2026-11-25",
+      "id": 4189,
+      "number": 1985,
+      "solution": "spicy",
       "editor": "Tracy Bennett"
     }
   }
