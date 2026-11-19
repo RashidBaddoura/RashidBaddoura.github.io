@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-04": {
-      "date": "2026-11-04",
-      "id": 1835,
-      "number": 1964,
-      "solution": "nutty",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-05": {
       "date": "2026-11-05",
       "id": 5270,
@@ -153,6 +146,13 @@
       "id": 4189,
       "number": 1985,
       "solution": "spicy",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-26": {
+      "date": "2026-11-26",
+      "id": 1375,
+      "number": 1986,
+      "solution": "tense",
       "editor": "Tracy Bennett"
     }
   }
