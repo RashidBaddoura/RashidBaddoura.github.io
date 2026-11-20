@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-05": {
-      "date": "2026-11-05",
-      "id": 5270,
-      "number": 1965,
-      "solution": "parch",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-06": {
       "date": "2026-11-06",
       "id": 2369,
@@ -153,6 +146,13 @@
       "id": 1375,
       "number": 1986,
       "solution": "tense",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-27": {
+      "date": "2026-11-27",
+      "id": 4782,
+      "number": 1987,
+      "solution": "sheaf",
       "editor": "Tracy Bennett"
     }
   }
