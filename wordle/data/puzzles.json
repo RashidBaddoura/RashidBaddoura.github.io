@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-06": {
-      "date": "2026-11-06",
-      "id": 2369,
-      "number": 1966,
-      "solution": "dreck",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-07": {
       "date": "2026-11-07",
       "id": 4636,
@@ -153,6 +146,13 @@
       "id": 4782,
       "number": 1987,
       "solution": "sheaf",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-28": {
+      "date": "2026-11-28",
+      "id": 4585,
+      "number": 1988,
+      "solution": "woozy",
       "editor": "Tracy Bennett"
     }
   }
