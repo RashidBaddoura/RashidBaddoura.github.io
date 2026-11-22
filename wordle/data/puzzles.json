@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-07": {
-      "date": "2026-11-07",
-      "id": 4636,
-      "number": 1967,
-      "solution": "prate",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-08": {
       "date": "2026-11-08",
       "id": 3115,
@@ -153,6 +146,13 @@
       "id": 4585,
       "number": 1988,
       "solution": "woozy",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-29": {
+      "date": "2026-11-29",
+      "id": 4903,
+      "number": 1989,
+      "solution": "peony",
       "editor": "Tracy Bennett"
     }
   }
