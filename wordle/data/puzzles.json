@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-08": {
-      "date": "2026-11-08",
-      "id": 3115,
-      "number": 1968,
-      "solution": "first",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-09": {
       "date": "2026-11-09",
       "id": 2248,
@@ -153,6 +146,13 @@
       "id": 4903,
       "number": 1989,
       "solution": "peony",
+      "editor": "Tracy Bennett"
+    },
+    "2026-11-30": {
+      "date": "2026-11-30",
+      "id": 1147,
+      "number": 1990,
+      "solution": "worth",
       "editor": "Tracy Bennett"
     }
   }
