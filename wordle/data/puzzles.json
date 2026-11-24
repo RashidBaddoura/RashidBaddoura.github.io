@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-09": {
-      "date": "2026-11-09",
-      "id": 2248,
-      "number": 1969,
-      "solution": "loamy",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-10": {
       "date": "2026-11-10",
       "id": 777,
@@ -153,6 +146,13 @@
       "id": 1147,
       "number": 1990,
       "solution": "worth",
+      "editor": "Tracy Bennett"
+    },
+    "2026-12-01": {
+      "date": "2026-12-01",
+      "id": 2007,
+      "number": 1991,
+      "solution": "sauce",
       "editor": "Tracy Bennett"
     }
   }
