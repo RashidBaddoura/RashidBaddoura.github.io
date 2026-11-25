@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-10": {
-      "date": "2026-11-10",
-      "id": 777,
-      "number": 1970,
-      "solution": "truce",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-11": {
       "date": "2026-11-11",
       "id": 810,
@@ -153,6 +146,13 @@
       "id": 2007,
       "number": 1991,
       "solution": "sauce",
+      "editor": "Tracy Bennett"
+    },
+    "2026-12-02": {
+      "date": "2026-12-02",
+      "id": 4846,
+      "number": 1992,
+      "solution": "dorky",
       "editor": "Tracy Bennett"
     }
   }
