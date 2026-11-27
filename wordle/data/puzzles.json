@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-12": {
-      "date": "2026-11-12",
-      "id": 5201,
-      "number": 1972,
-      "solution": "karat",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-13": {
       "date": "2026-11-13",
       "id": 4745,
@@ -153,6 +146,13 @@
       "id": 1171,
       "number": 1993,
       "solution": "radar",
+      "editor": "Tracy Bennett"
+    },
+    "2026-12-04": {
+      "date": "2026-12-04",
+      "id": 1883,
+      "number": 1994,
+      "solution": "fight",
       "editor": "Tracy Bennett"
     }
   }
