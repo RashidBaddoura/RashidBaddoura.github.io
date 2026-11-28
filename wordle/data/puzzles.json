@@ -1,13 +1,6 @@
 {
   "source": "https://www.nytimes.com/svc/wordle/v2/",
   "puzzles": {
-    "2026-11-13": {
-      "date": "2026-11-13",
-      "id": 4745,
-      "number": 1973,
-      "solution": "moxie",
-      "editor": "Tracy Bennett"
-    },
     "2026-11-14": {
       "date": "2026-11-14",
       "id": 1156,
@@ -153,6 +146,13 @@
       "id": 1883,
       "number": 1994,
       "solution": "fight",
+      "editor": "Tracy Bennett"
+    },
+    "2026-12-05": {
+      "date": "2026-12-05",
+      "id": 711,
+      "number": 1995,
+      "solution": "cress",
       "editor": "Tracy Bennett"
     }
   }
